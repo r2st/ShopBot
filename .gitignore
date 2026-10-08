@@ -43,3 +43,7 @@ keys/
 *.log
 docs/.~lock.*
 docs/*.tmp
+
+# Environment
+.env*
+!.env.example
